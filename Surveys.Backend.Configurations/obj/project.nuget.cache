@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Vy75NnpHx5cHRrFGpcfXzcQZCFa1wR1V8LmXghqCWlVkn1227/opqZcWXCDiOj3idCUNy/X5ugsJM19dIevX0Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Bohdan\\Desktop\\Surveys\\Surveys.Backend\\Surveys.Backend.Configurations\\Surveys.Backend.Configurations.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bohdan\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.16\\microsoft.netcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\Bohdan\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.16\\microsoft.windowsdesktop.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\Bohdan\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.16\\microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

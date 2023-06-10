@@ -1,0 +1,12 @@
+C:\Users\Bohdan\Desktop\Surveys\Surveys.Backend\Surveys.Backend.Configurations\bin\Debug\net6.0\Surveys.Backend.Configurations.deps.json
+C:\Users\Bohdan\Desktop\Surveys\Surveys.Backend\Surveys.Backend.Configurations\bin\Debug\net6.0\Surveys.Backend.Configurations.dll
+C:\Users\Bohdan\Desktop\Surveys\Surveys.Backend\Surveys.Backend.Configurations\bin\Debug\net6.0\Surveys.Backend.Configurations.pdb
+C:\Users\Bohdan\Desktop\Surveys\Surveys.Backend\Surveys.Backend.Configurations\obj\Debug\net6.0\Surveys.Backend.Configurations.csproj.AssemblyReference.cache
+C:\Users\Bohdan\Desktop\Surveys\Surveys.Backend\Surveys.Backend.Configurations\obj\Debug\net6.0\Surveys.Backend.Configurations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bohdan\Desktop\Surveys\Surveys.Backend\Surveys.Backend.Configurations\obj\Debug\net6.0\Surveys.Backend.Configurations.AssemblyInfoInputs.cache
+C:\Users\Bohdan\Desktop\Surveys\Surveys.Backend\Surveys.Backend.Configurations\obj\Debug\net6.0\Surveys.Backend.Configurations.AssemblyInfo.cs
+C:\Users\Bohdan\Desktop\Surveys\Surveys.Backend\Surveys.Backend.Configurations\obj\Debug\net6.0\Surveys.Backend.Configurations.csproj.CoreCompileInputs.cache
+C:\Users\Bohdan\Desktop\Surveys\Surveys.Backend\Surveys.Backend.Configurations\obj\Debug\net6.0\Surveys.Backend.Configurations.dll
+C:\Users\Bohdan\Desktop\Surveys\Surveys.Backend\Surveys.Backend.Configurations\obj\Debug\net6.0\refint\Surveys.Backend.Configurations.dll
+C:\Users\Bohdan\Desktop\Surveys\Surveys.Backend\Surveys.Backend.Configurations\obj\Debug\net6.0\Surveys.Backend.Configurations.pdb
+C:\Users\Bohdan\Desktop\Surveys\Surveys.Backend\Surveys.Backend.Configurations\obj\Debug\net6.0\ref\Surveys.Backend.Configurations.dll
