@@ -1,0 +1,34 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net6.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="11.0.0" />
+      <PackageReference Include="MediatR" Version="10.0.1" />
+      <PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="10.0.1" />
+      <PackageReference Include="Microsoft.AspNetCore.Identity" Version="2.2.0" />
+      <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="6.0.3" />
+      <PackageReference Include="Microsoft.AspNetCore.Identity.UI" Version="6.0.3" />
+      <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="6.0.0" />
+      <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="6.8.0" />
+        
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\Surveys.Backend.Common\Surveys.Backend.Common.csproj" />
+      <ProjectReference Include="..\Surveys.Backend.Configurations\Surveys.Backend.Configurations.csproj" />
+      <ProjectReference Include="..\Surveys.Backend.DataAccess\Surveys.Backend.DataAccess.csproj" />
+      <ProjectReference Include="..\Surveys.Backend.DomainModel\Surveys.Backend.DomainModel.csproj" />
+      <ProjectReference Include="..\Surveys.Backend.Repositories\Surveys.Backend.Repositories.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Folder Include="Surveys\DeleteById\Models" />
+      <Folder Include="UserSurveys" />
+    </ItemGroup>
+
+</Project>

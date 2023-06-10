@@ -1,0 +1,497 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Bohdan\\Desktop\\Surveys\\Surveys.Backend\\Surveys.Backend.Foundation\\Surveys.Backend.Foundation.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Bohdan\\Desktop\\Surveys\\Surveys.Backend\\Surveys.Backend.Common\\Surveys.Backend.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Bohdan\\Desktop\\Surveys\\Surveys.Backend\\Surveys.Backend.Common\\Surveys.Backend.Common.csproj",
+        "projectName": "Surveys.Backend.Common",
+        "projectPath": "C:\\Users\\Bohdan\\Desktop\\Surveys\\Surveys.Backend\\Surveys.Backend.Common\\Surveys.Backend.Common.csproj",
+        "packagesPath": "C:\\Users\\Bohdan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Bohdan\\Desktop\\Surveys\\Surveys.Backend\\Surveys.Backend.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Bohdan\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.16, 6.0.16]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.16, 6.0.16]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.16, 6.0.16]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Bohdan\\Desktop\\Surveys\\Surveys.Backend\\Surveys.Backend.Configurations\\Surveys.Backend.Configurations.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Bohdan\\Desktop\\Surveys\\Surveys.Backend\\Surveys.Backend.Configurations\\Surveys.Backend.Configurations.csproj",
+        "projectName": "Surveys.Backend.Configurations",
+        "projectPath": "C:\\Users\\Bohdan\\Desktop\\Surveys\\Surveys.Backend\\Surveys.Backend.Configurations\\Surveys.Backend.Configurations.csproj",
+        "packagesPath": "C:\\Users\\Bohdan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Bohdan\\Desktop\\Surveys\\Surveys.Backend\\Surveys.Backend.Configurations\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Bohdan\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.16, 6.0.16]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.16, 6.0.16]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.16, 6.0.16]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Bohdan\\Desktop\\Surveys\\Surveys.Backend\\Surveys.Backend.DataAccess\\Surveys.Backend.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Bohdan\\Desktop\\Surveys\\Surveys.Backend\\Surveys.Backend.DataAccess\\Surveys.Backend.DataAccess.csproj",
+        "projectName": "Surveys.Backend.DataAccess",
+        "projectPath": "C:\\Users\\Bohdan\\Desktop\\Surveys\\Surveys.Backend\\Surveys.Backend.DataAccess\\Surveys.Backend.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\Bohdan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Bohdan\\Desktop\\Surveys\\Surveys.Backend\\Surveys.Backend.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Bohdan\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Bohdan\\Desktop\\Surveys\\Surveys.Backend\\Surveys.Backend.DomainModel\\Surveys.Backend.DomainModel.csproj": {
+                "projectPath": "C:\\Users\\Bohdan\\Desktop\\Surveys\\Surveys.Backend\\Surveys.Backend.DomainModel\\Surveys.Backend.DomainModel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer.Design": {
+              "target": "Package",
+              "version": "[1.1.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.16, 6.0.16]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.16, 6.0.16]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.16, 6.0.16]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Bohdan\\Desktop\\Surveys\\Surveys.Backend\\Surveys.Backend.DomainModel\\Surveys.Backend.DomainModel.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Bohdan\\Desktop\\Surveys\\Surveys.Backend\\Surveys.Backend.DomainModel\\Surveys.Backend.DomainModel.csproj",
+        "projectName": "Surveys.Backend.DomainModel",
+        "projectPath": "C:\\Users\\Bohdan\\Desktop\\Surveys\\Surveys.Backend\\Surveys.Backend.DomainModel\\Surveys.Backend.DomainModel.csproj",
+        "packagesPath": "C:\\Users\\Bohdan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Bohdan\\Desktop\\Surveys\\Surveys.Backend\\Surveys.Backend.DomainModel\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Bohdan\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.Identity.Stores": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.16, 6.0.16]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.16, 6.0.16]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.16, 6.0.16]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Bohdan\\Desktop\\Surveys\\Surveys.Backend\\Surveys.Backend.Foundation\\Surveys.Backend.Foundation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Bohdan\\Desktop\\Surveys\\Surveys.Backend\\Surveys.Backend.Foundation\\Surveys.Backend.Foundation.csproj",
+        "projectName": "Surveys.Backend.Foundation",
+        "projectPath": "C:\\Users\\Bohdan\\Desktop\\Surveys\\Surveys.Backend\\Surveys.Backend.Foundation\\Surveys.Backend.Foundation.csproj",
+        "packagesPath": "C:\\Users\\Bohdan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Bohdan\\Desktop\\Surveys\\Surveys.Backend\\Surveys.Backend.Foundation\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Bohdan\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Bohdan\\Desktop\\Surveys\\Surveys.Backend\\Surveys.Backend.Common\\Surveys.Backend.Common.csproj": {
+                "projectPath": "C:\\Users\\Bohdan\\Desktop\\Surveys\\Surveys.Backend\\Surveys.Backend.Common\\Surveys.Backend.Common.csproj"
+              },
+              "C:\\Users\\Bohdan\\Desktop\\Surveys\\Surveys.Backend\\Surveys.Backend.Configurations\\Surveys.Backend.Configurations.csproj": {
+                "projectPath": "C:\\Users\\Bohdan\\Desktop\\Surveys\\Surveys.Backend\\Surveys.Backend.Configurations\\Surveys.Backend.Configurations.csproj"
+              },
+              "C:\\Users\\Bohdan\\Desktop\\Surveys\\Surveys.Backend\\Surveys.Backend.DataAccess\\Surveys.Backend.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\Bohdan\\Desktop\\Surveys\\Surveys.Backend\\Surveys.Backend.DataAccess\\Surveys.Backend.DataAccess.csproj"
+              },
+              "C:\\Users\\Bohdan\\Desktop\\Surveys\\Surveys.Backend\\Surveys.Backend.DomainModel\\Surveys.Backend.DomainModel.csproj": {
+                "projectPath": "C:\\Users\\Bohdan\\Desktop\\Surveys\\Surveys.Backend\\Surveys.Backend.DomainModel\\Surveys.Backend.DomainModel.csproj"
+              },
+              "C:\\Users\\Bohdan\\Desktop\\Surveys\\Surveys.Backend\\Surveys.Backend.Repositories\\Surveys.Backend.Repositories.csproj": {
+                "projectPath": "C:\\Users\\Bohdan\\Desktop\\Surveys\\Surveys.Backend\\Surveys.Backend.Repositories\\Surveys.Backend.Repositories.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[10.0.1, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[10.0.1, )"
+            },
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.3, )"
+            },
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[6.0.3, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.8.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.16, 6.0.16]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.16, 6.0.16]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.16, 6.0.16]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Bohdan\\Desktop\\Surveys\\Surveys.Backend\\Surveys.Backend.Repositories\\Surveys.Backend.Repositories.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Bohdan\\Desktop\\Surveys\\Surveys.Backend\\Surveys.Backend.Repositories\\Surveys.Backend.Repositories.csproj",
+        "projectName": "Surveys.Backend.Repositories",
+        "projectPath": "C:\\Users\\Bohdan\\Desktop\\Surveys\\Surveys.Backend\\Surveys.Backend.Repositories\\Surveys.Backend.Repositories.csproj",
+        "packagesPath": "C:\\Users\\Bohdan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Bohdan\\Desktop\\Surveys\\Surveys.Backend\\Surveys.Backend.Repositories\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Bohdan\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Bohdan\\Desktop\\Surveys\\Surveys.Backend\\Surveys.Backend.DataAccess\\Surveys.Backend.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\Bohdan\\Desktop\\Surveys\\Surveys.Backend\\Surveys.Backend.DataAccess\\Surveys.Backend.DataAccess.csproj"
+              },
+              "C:\\Users\\Bohdan\\Desktop\\Surveys\\Surveys.Backend\\Surveys.Backend.DomainModel\\Surveys.Backend.DomainModel.csproj": {
+                "projectPath": "C:\\Users\\Bohdan\\Desktop\\Surveys\\Surveys.Backend\\Surveys.Backend.DomainModel\\Surveys.Backend.DomainModel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Ardalis.Specification": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Ardalis.Specification.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.16, 6.0.16]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.16, 6.0.16]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.16, 6.0.16]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
