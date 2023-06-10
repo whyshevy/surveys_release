@@ -1,0 +1,15 @@
+C:\Users\Bohdan\Desktop\Surveys\Surveys.Backend\Surveys.Backend.DataAccess\bin\Debug\net6.0\Surveys.Backend.DataAccess.deps.json
+C:\Users\Bohdan\Desktop\Surveys\Surveys.Backend\Surveys.Backend.DataAccess\bin\Debug\net6.0\Surveys.Backend.DataAccess.dll
+C:\Users\Bohdan\Desktop\Surveys\Surveys.Backend\Surveys.Backend.DataAccess\bin\Debug\net6.0\Surveys.Backend.DataAccess.pdb
+C:\Users\Bohdan\Desktop\Surveys\Surveys.Backend\Surveys.Backend.DataAccess\bin\Debug\net6.0\Surveys.Backend.DomainModel.dll
+C:\Users\Bohdan\Desktop\Surveys\Surveys.Backend\Surveys.Backend.DataAccess\bin\Debug\net6.0\Surveys.Backend.DomainModel.pdb
+C:\Users\Bohdan\Desktop\Surveys\Surveys.Backend\Surveys.Backend.DataAccess\obj\Debug\net6.0\Surveys.Backend.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Bohdan\Desktop\Surveys\Surveys.Backend\Surveys.Backend.DataAccess\obj\Debug\net6.0\Surveys.Backend.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bohdan\Desktop\Surveys\Surveys.Backend\Surveys.Backend.DataAccess\obj\Debug\net6.0\Surveys.Backend.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Bohdan\Desktop\Surveys\Surveys.Backend\Surveys.Backend.DataAccess\obj\Debug\net6.0\Surveys.Backend.DataAccess.AssemblyInfo.cs
+C:\Users\Bohdan\Desktop\Surveys\Surveys.Backend\Surveys.Backend.DataAccess\obj\Debug\net6.0\Surveys.Backend.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Bohdan\Desktop\Surveys\Surveys.Backend\Surveys.Backend.DataAccess\obj\Debug\net6.0\Surveys.Backend.DataAccess.csproj.CopyComplete
+C:\Users\Bohdan\Desktop\Surveys\Surveys.Backend\Surveys.Backend.DataAccess\obj\Debug\net6.0\Surveys.Backend.DataAccess.dll
+C:\Users\Bohdan\Desktop\Surveys\Surveys.Backend\Surveys.Backend.DataAccess\obj\Debug\net6.0\refint\Surveys.Backend.DataAccess.dll
+C:\Users\Bohdan\Desktop\Surveys\Surveys.Backend\Surveys.Backend.DataAccess\obj\Debug\net6.0\Surveys.Backend.DataAccess.pdb
+C:\Users\Bohdan\Desktop\Surveys\Surveys.Backend\Surveys.Backend.DataAccess\obj\Debug\net6.0\ref\Surveys.Backend.DataAccess.dll
