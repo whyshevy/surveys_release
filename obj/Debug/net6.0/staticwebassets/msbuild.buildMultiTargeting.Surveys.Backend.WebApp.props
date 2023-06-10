@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Surveys.Backend.WebApp.props" />
+</Project>
