@@ -1,0 +1,17 @@
+C:\Users\Bohdan\Desktop\Surveys\Surveys.Backend\Surveys.Backend.Repositories\bin\Debug\net6.0\Surveys.Backend.Repositories.deps.json
+C:\Users\Bohdan\Desktop\Surveys\Surveys.Backend\Surveys.Backend.Repositories\bin\Debug\net6.0\Surveys.Backend.Repositories.dll
+C:\Users\Bohdan\Desktop\Surveys\Surveys.Backend\Surveys.Backend.Repositories\bin\Debug\net6.0\Surveys.Backend.Repositories.pdb
+C:\Users\Bohdan\Desktop\Surveys\Surveys.Backend\Surveys.Backend.Repositories\bin\Debug\net6.0\Surveys.Backend.DataAccess.dll
+C:\Users\Bohdan\Desktop\Surveys\Surveys.Backend\Surveys.Backend.Repositories\bin\Debug\net6.0\Surveys.Backend.DomainModel.dll
+C:\Users\Bohdan\Desktop\Surveys\Surveys.Backend\Surveys.Backend.Repositories\bin\Debug\net6.0\Surveys.Backend.DataAccess.pdb
+C:\Users\Bohdan\Desktop\Surveys\Surveys.Backend\Surveys.Backend.Repositories\bin\Debug\net6.0\Surveys.Backend.DomainModel.pdb
+C:\Users\Bohdan\Desktop\Surveys\Surveys.Backend\Surveys.Backend.Repositories\obj\Debug\net6.0\Surveys.Backend.Repositories.csproj.AssemblyReference.cache
+C:\Users\Bohdan\Desktop\Surveys\Surveys.Backend\Surveys.Backend.Repositories\obj\Debug\net6.0\Surveys.Backend.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bohdan\Desktop\Surveys\Surveys.Backend\Surveys.Backend.Repositories\obj\Debug\net6.0\Surveys.Backend.Repositories.AssemblyInfoInputs.cache
+C:\Users\Bohdan\Desktop\Surveys\Surveys.Backend\Surveys.Backend.Repositories\obj\Debug\net6.0\Surveys.Backend.Repositories.AssemblyInfo.cs
+C:\Users\Bohdan\Desktop\Surveys\Surveys.Backend\Surveys.Backend.Repositories\obj\Debug\net6.0\Surveys.Backend.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\Bohdan\Desktop\Surveys\Surveys.Backend\Surveys.Backend.Repositories\obj\Debug\net6.0\Surveys.Backend.Repositories.csproj.CopyComplete
+C:\Users\Bohdan\Desktop\Surveys\Surveys.Backend\Surveys.Backend.Repositories\obj\Debug\net6.0\Surveys.Backend.Repositories.dll
+C:\Users\Bohdan\Desktop\Surveys\Surveys.Backend\Surveys.Backend.Repositories\obj\Debug\net6.0\refint\Surveys.Backend.Repositories.dll
+C:\Users\Bohdan\Desktop\Surveys\Surveys.Backend\Surveys.Backend.Repositories\obj\Debug\net6.0\Surveys.Backend.Repositories.pdb
+C:\Users\Bohdan\Desktop\Surveys\Surveys.Backend\Surveys.Backend.Repositories\obj\Debug\net6.0\ref\Surveys.Backend.Repositories.dll
